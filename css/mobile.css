@@ -112,4 +112,42 @@ a {
 	height: 50%;
 }
 
-/* MAIN ~ save-time */
+/* MAIN ~ benefits */
+.benefits {
+	margin-top: 60px;
+	height: 680px;
+}
+
+.header__title--benefits {
+	margin-bottom: 30px;
+	font-size: 18px;
+}
+
+.benefit__text {
+	margin: 13px 0 25px;
+	width: 160px;
+	text-align: center;
+}
+
+.benefit__item {
+	flex-direction: column;
+}
+
+.benefit__icon {
+	width: 90px;
+	height: 90px;
+	padding: 25px;
+	border-radius: 15px;
+}
+
+.benefit__icon--blue {
+	background: #2393F9;
+}
+
+.benefit__icon--orange {
+	background: #FD945E;
+}
+
+.benefit__icon--green {
+	background: #37EF8D;
+}
