@@ -213,3 +213,95 @@ a {
 	color: gold;
 	font-size: 16px;
 }
+
+/* MAIN ~ pricing */
+.pricing {
+	height: 1220px;
+}
+
+.header--pricing {
+	flex-direction: column;
+}
+
+.header__title--pricing {
+	margin: 30px 0 15px;
+	font-size: 22px;
+}
+
+.header__text--pricing {
+	margin: 0 10px;
+	font-size: 14px;
+	text-align: center;
+}
+
+.container--pricing {
+	height: 900px;
+}
+
+.article__content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 40%;
+	margin: 15px 10px;
+	align-items: center;
+	box-shadow: 5px 10px 61px 20px rgb(248, 245, 245);
+}
+
+.article__content--pricing-basic,
+.article__content--pricing-team {
+	height: 35%;
+}
+
+.header__pricing {
+	justify-content: space-around;
+	width: 90%;
+	margin: 15px 10px;
+	padding: 10px 15px;
+	font-size: 17px;
+}
+
+.article__title--pricing {
+	margin-right: 60%;
+}
+
+.header__pricing--blue {
+	background: rgba(6, 85, 231, 0.05);
+}
+
+.article__price--blue {
+	color: royalblue;
+}
+
+.header__pricing--orange {
+	background: rgba(231, 6, 6, 0.05);
+}
+
+.article__price--orange {
+	color: orange;
+}
+
+.header__pricing--green {
+	background: rgba(6, 231, 17, 0.05);
+}
+
+.article__price--green {
+	color: green;
+}
+
+.pricing__list-services {
+	flex-direction: column;
+}
+
+.pricing__item {
+	margin-bottom: 15px;
+}
+
+.pricing__btn {
+	margin-top: 15px;
+	padding: 5px 35px;
+	border: 1px solid royalblue;
+	background: none;
+	border-radius: 5px;
+	color: royalblue;
+}
