@@ -115,7 +115,7 @@ a {
 /* MAIN ~ benefits */
 .benefits {
 	margin-top: 60px;
-	height: 680px;
+	height: 650px;
 }
 
 .header__title--benefits {
@@ -153,4 +153,33 @@ a {
 .benefit__icon--green {
 	background: #37EF8D;
 	box-shadow: 2px 2px 10px #37EF8D;
+}
+
+/* MAIN ~ features */
+.features {
+	height: 480px;
+}
+
+.header__title--features {
+	font-size: 18px;
+	margin: 0 10px 15px;
+}
+
+.container--features {
+	flex-direction: column;
+}
+
+.container__text--features {
+	margin: 0 15px 20px;
+	font-size: 13px;
+}
+
+.container__btn--features {
+	padding: 15px 25px;
+	margin-bottom: 25px;
+	border-radius: 10px;
+	border: none;
+	background: #0181F5;
+	color: var(--color-alfa);
+
 }
