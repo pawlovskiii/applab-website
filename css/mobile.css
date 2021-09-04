@@ -142,12 +142,15 @@ a {
 
 .benefit__icon--blue {
 	background: #2393F9;
+	box-shadow: 2px 2px 10px #2393F9;
 }
 
 .benefit__icon--orange {
 	background: #FD945E;
+	box-shadow: 2px 2px 10px #FD945E;
 }
 
 .benefit__icon--green {
 	background: #37EF8D;
+	box-shadow: 2px 2px 10px #37EF8D;
 }
