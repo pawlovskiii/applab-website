@@ -12,3 +12,9 @@ body {
 	justify-content: center;
 	align-items: center;
 }
+
+.container__btn {
+	border: none;
+	border-radius: 10px;
+	color: var(--color-alfa);
+}

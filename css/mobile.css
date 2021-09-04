@@ -75,7 +75,7 @@ a {
 /* MAIN ~ get-start */
 .get-start {
 	background-image: url('../images/banner/banner.png');
-	height: 680px;
+	height: 780px;
 	background-size: cover;
 	background-position: center;
 	color: var(--color-alfa);
@@ -102,10 +102,7 @@ a {
 .container__btn--get-start {
 	padding: 10px 20px;
 	margin: 20px 0 60px;
-	border: none;
-	color: var(--color-alfa);
 	background: #37ebed;
-	border-radius: 8px;
 }
 
 .container__img--get-start {
@@ -172,14 +169,11 @@ a {
 .container__text--features {
 	margin: 0 15px 20px;
 	font-size: 13px;
+	text-align: center;
 }
 
 .container__btn--features {
 	padding: 15px 25px;
 	margin-bottom: 25px;
-	border-radius: 10px;
-	border: none;
 	background: #0181F5;
-	color: var(--color-alfa);
-
 }
