@@ -84,9 +84,6 @@ a {
 .header__title--get-start {
 	margin: 20px 20px 10px;
 	font-size: 23px;
-}
-
-.header__title {
 	text-transform: capitalize;
 }
 
@@ -138,18 +135,18 @@ a {
 }
 
 .benefit__icon--blue {
-	background: #2393F9;
-	box-shadow: 2px 2px 10px #2393F9;
+	background: #2393f9;
+	box-shadow: 2px 2px 10px #2393f9;
 }
 
 .benefit__icon--orange {
-	background: #FD945E;
-	box-shadow: 2px 2px 10px #FD945E;
+	background: #fd945e;
+	box-shadow: 2px 2px 10px #fd945e;
 }
 
 .benefit__icon--green {
-	background: #37EF8D;
-	box-shadow: 2px 2px 10px #37EF8D;
+	background: #37ef8d;
+	box-shadow: 2px 2px 10px #37ef8d;
 }
 
 /* MAIN ~ features */
@@ -175,5 +172,44 @@ a {
 .container__btn--features {
 	padding: 15px 25px;
 	margin-bottom: 25px;
-	background: #0181F5;
+	background: #0181f5;
+}
+
+/* MAIN ~ reviews */
+.reviews {
+	height: 350px;
+	background-image: url(../images/banner/testmonial.png);
+	background-position: center;
+	background-size: cover;
+	color: var(--color-alfa);
+	text-align: center;
+}
+
+.wrapper {
+	height: 100%;
+	background-color: rgba(13, 78, 216, 0.8);
+}
+
+.header__title--reviews {
+	margin: 60px 30px 15px;
+	font-size: 19px;
+}
+
+.container--reviews {
+	flex-direction: column;
+}
+
+.container__text--reviews {
+	font-size: 15px;
+	margin: 0 15px;
+}
+
+.container__text--stars {
+	margin-top: 15px;
+	font-size: 13px;
+}
+
+.fa-star {
+	color: gold;
+	font-size: 16px;
 }
