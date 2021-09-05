@@ -87,19 +87,23 @@ a {
 	text-transform: capitalize;
 }
 
-.container--get-start {
+.article__content--get-start {
 	flex-direction: column;
 }
 
-.container__text--get-start {
+.article__text--get-start {
 	margin: 0 20px;
 	font-size: 12px;
 }
 
-.container__btn--get-start {
+.article__btn--get-start {
 	padding: 10px 20px;
 	margin: 20px 0 60px;
 	background: #37ebed;
+}
+
+.container--get-start {
+	flex-direction: column;
 }
 
 .container__img--get-start {
