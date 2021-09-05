@@ -195,7 +195,7 @@ a {
 
 .wrapper {
 	height: 100%;
-	background-color: rgba(13, 78, 216, 0.8);
+	background-color: rgba(23, 144, 243, 0.8);
 }
 
 .header__title--reviews {
@@ -311,4 +311,26 @@ a {
 	background: none;
 	border-radius: 5px;
 	color: var(--color-blue);
+}
+
+/* MAIN ~ get-app */
+.get-app {
+	height: 280px;
+	background: var(--light-blue);
+}
+
+.article__content--get-app {
+	flex-direction: column;
+}
+
+.header__title--get-app {
+	margin: 25% 5% 3%;
+	font-size: clamp(1.5rem, 2.5vw, 3rem);
+	text-align: center;
+	color: var(--color-alfa);
+}
+
+.container__img--get-app {
+	width: 40%;
+	transform: scale(1.1);
 }
