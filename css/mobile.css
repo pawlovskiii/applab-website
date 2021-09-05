@@ -238,19 +238,18 @@ a {
 	height: 900px;
 }
 
-.article__content {
+.article__content--pricing {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	height: 40%;
+	height: 35%;
 	margin: 15px 10px;
 	align-items: center;
 	box-shadow: 5px 10px 61px 20px rgb(248, 245, 245);
 }
 
-.article__content--pricing-basic,
-.article__content--pricing-team {
-	height: 35%;
+.article__content--pricing-business {
+	height: 40%;
 }
 
 .header__pricing {
