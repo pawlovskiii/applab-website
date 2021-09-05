@@ -1,5 +1,5 @@
 /* HEADER ~ nav */
-.header__logo {
+.header__logo--navbar {
 	position: absolute;
 	left: 30%;
 	transform: translate(-50%, -50%);
@@ -339,4 +339,9 @@ a {
 .menu-end {
 	height: 500px;
 	background: var(--nav-color);
+	color: var(--color-alfa);
+}
+
+.header__logo--app-lab {
+	/* background: yellow; */
 }
