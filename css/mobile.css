@@ -163,17 +163,21 @@ a {
 	margin: 0 10px 15px;
 }
 
+.article__content--features {
+	flex-direction: column;
+}
+
 .container--features {
 	flex-direction: column;
 }
 
-.container__text--features {
+.article__text--features {
 	margin: 0 15px 20px;
 	font-size: 13px;
 	text-align: center;
 }
 
-.container__btn--features {
+.article__btn--features {
 	padding: 15px 25px;
 	margin-bottom: 25px;
 	background: #0181f5;

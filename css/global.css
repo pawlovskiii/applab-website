@@ -13,12 +13,6 @@ body {
 	align-items: center;
 }
 
-.container__btn {
-	border: none;
-	border-radius: 10px;
-	color: var(--color-alfa);
-}
-
 .article__btn {
 	border: none;
 	border-radius: 10px;
