@@ -335,13 +335,72 @@ a {
 	transform: scale(1.1);
 }
 
-/* MAIN ~ menu-end */
+/* MAIN ~ menu-end > app-lab */
 .menu-end {
-	height: 500px;
+	height: 710px;
 	background: var(--nav-color);
 	color: var(--color-alfa);
 }
 
+.article__content--app-lab {
+	flex-direction: column;
+}
+
 .header__logo--app-lab {
-	/* background: yellow; */
+	margin: 40px 10px 10px;
+}
+
+.article__text--app-lab {
+	margin: 0 10px 15px;
+	font-size: 14px;
+}
+
+.container__icons--app-lab {
+	margin: 0 10px 15px;
+	font-size: 31px;
+}
+
+/* MAIN ~ menu-end > services */
+.article__content--services {
+	flex-direction: column;
+}
+
+.header--services {
+	margin: 5px 10px 15px;
+	font-size: 22px;
+}
+
+.service__item {
+	margin: 0 10px 10px;
+	font-size: 13px;
+}
+
+/* MAIN ~ menu-end > useful-links */
+.article__content--useful-links {
+	flex-direction: column;
+}
+
+.header--useful-links {
+	margin: 5px 10px 15px;
+	font-size: 22px;
+}
+
+.useful-link__item {
+	margin: 0 10px 10px;
+	font-size: 13px;
+}
+
+/* MAIN ~ menu-end > downloads */
+.article__content--downloads {
+	flex-direction: column;
+}
+
+.header--downloads {
+	margin: 5px 10px 15px;
+	font-size: 22px;
+}
+
+.download__item {
+	margin: 0 10px 10px;
+	font-size: 13px;
 }
