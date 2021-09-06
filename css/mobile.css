@@ -360,47 +360,17 @@ a {
 	font-size: 31px;
 }
 
-/* MAIN ~ menu-end > services */
-.article__content--services {
+/* MAIN ~ menu-end > services, useful-links, downloads */
+.article__content--menu-end {
 	flex-direction: column;
 }
 
-.header--services {
+.header--menu-end {
 	margin: 5px 10px 15px;
 	font-size: 22px;
 }
 
-.service__item {
-	margin: 0 10px 10px;
-	font-size: 13px;
-}
-
-/* MAIN ~ menu-end > useful-links */
-.article__content--useful-links {
-	flex-direction: column;
-}
-
-.header--useful-links {
-	margin: 5px 10px 15px;
-	font-size: 22px;
-}
-
-.useful-link__item {
-	margin: 0 10px 10px;
-	font-size: 13px;
-}
-
-/* MAIN ~ menu-end > downloads */
-.article__content--downloads {
-	flex-direction: column;
-}
-
-.header--downloads {
-	margin: 5px 10px 15px;
-	font-size: 22px;
-}
-
-.download__item {
+.menu-end__item {
 	margin: 0 10px 10px;
 	font-size: 13px;
 }
