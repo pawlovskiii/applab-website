@@ -160,7 +160,7 @@ a {
 
 .header__title--features {
 	font-size: 18px;
-	margin: 0 10px 15px;
+	margin: 0 20px 10px;
 }
 
 .article__content--features {
@@ -172,14 +172,14 @@ a {
 }
 
 .article__text--features {
-	margin: 0 15px 20px;
+	margin: 0 20px 15px;
 	font-size: 13px;
-	text-align: center;
+	text-align: left;
 }
 
 .article__btn--features {
 	padding: 15px 25px;
-	margin-bottom: 25px;
+	margin: 0 20px 25px;
 	background: var(--color-blue);
 }
 
