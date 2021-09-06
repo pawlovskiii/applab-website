@@ -1,5 +1,54 @@
 /* HEADER ~ nav */
 .header__logo--navbar {
-    left: 15%;
+	left: 15%;
 }
 
+/* MAIN ~ get-start */
+.get-start {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	height: 520px;
+	background-position: left;
+}
+
+.article__content--get-start {
+	width: 320px;
+	margin-bottom: 180px;
+	margin-left: 25%;
+	display: flex;
+	justify-content: center;
+}
+
+.header--get-start {
+	width: 300px;
+}
+
+.header__title--get-start {
+	font-size: 28px;
+}
+
+.article__text--get-start {
+	margin: 0 20px;
+	font-size: 16px;
+}
+
+.article__btn--get-start {
+	padding: 15px 40px;
+	background: #37ebed;
+}
+
+.container--get-start {
+	height: 650px;
+	width: 330px;
+	margin-right: 45%;
+}
+
+.container__img--get-start {
+	height: 70%;
+	width: 90%;
+}
+
+/* MAIN ~ benefits */
+.benefits {
+	margin-top: 130px;
+}
