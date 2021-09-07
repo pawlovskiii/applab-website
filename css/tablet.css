@@ -51,4 +51,37 @@
 /* MAIN ~ benefits */
 .benefits {
 	margin-top: 130px;
+	height: 430px;
+}
+
+.header__title--benefits {
+	margin-left: 230px;
+	margin-right: 230px;
+	font-size: 27px;
+	text-align: center;
+}
+
+.benefits__list {
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.benefit__item {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.benefit__item--blue {
+	margin-left: 120px;
+}
+
+.benefit__item--orange {
+	margin-top: 25px;
+}
+
+.benefit__item--green {
+	margin-right: 120px;
 }
