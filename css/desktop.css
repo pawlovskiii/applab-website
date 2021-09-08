@@ -1,7 +1,9 @@
 /* HEADER ~ nav */
 .wrapper-test {
 	background-image: url('../images/banner/banner.png');
-	height: 620px;
+	height: 640px;
+    background-size: cover;
+	background-position: bottom;
 }
 
 .header__logo--navbar {
@@ -82,4 +84,44 @@
 .nav__btn:hover {
     background-color: var(--color-orange);
     color: var(--color-beta);
+}
+
+
+
+/* MAIN ~ get-start */
+.get-start {
+    background-image: none;
+}
+
+.article__content--get-start {
+	width: 520px;
+    margin: 0 0 180px 35%;
+}
+
+.header--get-start {
+	width: 500px;
+}
+
+.header__title--get-start {
+	font-size: 33px;
+}
+
+.article__text--get-start {
+	font-size: 17px;
+}
+
+.article__btn--get-start {
+	padding: 18px 43px;
+    transition: color 0.3s, background-color 0.5s;
+}
+
+.article__btn--get-start:hover {
+    background-color: var(--color-orange);
+    color: var(--color-beta);
+}
+
+.container__img--get-start {
+    margin-left: 280px;
+	height: 75%;
+	width: 100%;
 }
