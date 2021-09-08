@@ -157,12 +157,10 @@
 	margin: 25px 100px 0;
 }
 
-
-
 /* MAIN ~ features */
 .features {
 	height: 420px;
-    margin-bottom: 30px;
+	margin-bottom: 30px;
 }
 
 .header__title--features {
@@ -180,14 +178,42 @@
 
 .article__btn--features {
 	padding: 18px 35px;
-    transition: color 0.3s, background-color 0.5s;
+	transition: color 0.3s, background-color 0.5s;
 }
 
 .article__btn--features:hover {
-    background-color: var(--color-orange);
+	background-color: var(--color-orange);
 	color: var(--color-beta);
 }
 
 .container--features {
-    margin-right: 15%;
+	margin-right: 15%;
+}
+
+/* MAIN ~ reviews */
+.reviews {
+	height: 650px;
+	background-position: top;
+}
+
+.header--reviews {
+	width: 400px;
+}
+
+.header__title--reviews {
+	margin: 0 30px 25px;
+	font-size: 31px;
+}
+
+.article__text--reviews {
+	font-size: 17px;
+}
+
+.article__text--stars {
+	margin-top: 20px;
+	font-size: 15px;
+}
+
+.fa-star {
+	font-size: 20px;
 }
