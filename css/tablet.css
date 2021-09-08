@@ -220,3 +220,49 @@
 .container__img--get-app {
 	width: 43%;
 }
+
+/* MAIN ~ menu-end > app-lab */
+.menu-end {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	align-items: center;
+
+	height: 610px;
+}
+
+.article__content--app-lab {
+	margin-left: 100px;
+}
+
+.article__text--app-lab {
+	margin: 0 10px 25px;
+}
+
+.container__icons--app-lab > .fab {
+	margin-right: 10px;
+}
+
+/* MAIN ~ menu-end > services */
+.article__content--services {
+	margin-left: 70px;
+}
+
+/* MAIN ~ menu-end > useful-links */
+.article__content--useful-links {
+	margin-left: 100px;
+}
+
+/* MAIN ~ menu-end > downloads */
+.article__content--downloads {
+	margin: 0 0 52px 70px;
+}
+
+/* MAIN ~ menu-end > services, useful-links, downloads */
+.header--menu-end {
+	font-size: 25px;
+}
+
+.menu-end__item {
+	font-size: 15px;
+}
