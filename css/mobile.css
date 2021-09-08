@@ -264,7 +264,7 @@ a {
 	box-shadow: 5px 10px 61px 20px rgb(248, 245, 245);
 }
 
-.article__content--pricing-business {
+.article__content--pricing-team {
 	height: 40%;
 }
 
@@ -281,7 +281,7 @@ a {
 }
 
 .header__pricing--blue {
-	background: rgba(6, 85, 231, 0.05);
+	background: rgba(6, 85, 231, 0.11);
 }
 
 .article__price--blue {
@@ -289,7 +289,7 @@ a {
 }
 
 .header__pricing--orange {
-	background: rgba(231, 6, 6, 0.05);
+	background: rgba(231, 6, 6, 0.11);
 }
 
 .article__price--orange {
@@ -297,7 +297,7 @@ a {
 }
 
 .header__pricing--green {
-	background: rgba(6, 231, 17, 0.05);
+	background: rgba(6, 231, 17, 0.11);
 }
 
 .article__price--green {

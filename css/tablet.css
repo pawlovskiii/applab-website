@@ -141,3 +141,69 @@
 .article__text--stars {
 	margin-top: 35px;
 }
+
+
+/* MAIN ~ pricing */
+.pricing {
+	height: 760px;
+}
+
+.header__title--pricing {
+	margin: 70px 0 15px;
+	font-size: 25px;
+}
+
+.header__text--pricing {
+	width: 400px;
+	margin: 0 10px 40px;
+	font-size: 15px;
+}
+
+.container--pricing {
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.article__content--pricing {
+	margin: 15px 0;
+	box-shadow: 5px 10px 121px 20px #ddd;
+}
+
+.article__content--pricing-basic {
+	width: 33%;
+	height: 80.5%;
+	margin-left: 90px;
+}
+
+.article__content--pricing-team {
+	width: 33%;
+	height: 92.5%;
+}
+
+.article__content--pricing-business {
+	width: 33%;
+	height: 80.5%;
+	margin-right: 90px;
+}
+
+.header__pricing {
+	justify-content: center;
+	width: 100%;
+	margin: 15px 10px;
+	padding: 25px 15px;
+}
+
+.article__title--pricing {
+	margin-right: 100px;
+}
+
+.pricing__item {
+	margin: 15px 0 20px;
+}
+
+.pricing__btn {
+	margin: 15px 0 32px;
+	padding: 10px 35px;
+}
