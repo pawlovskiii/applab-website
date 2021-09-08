@@ -101,7 +101,7 @@
 }
 
 .header__title--get-start {
-    margin: 20px 20px 20px;
+	margin: 20px 20px 20px;
 	font-size: 35px;
 }
 
@@ -110,7 +110,7 @@
 }
 
 .article__btn--get-start {
-    margin: 30px 20px 60px;
+	margin: 30px 20px 60px;
 	padding: 18px 43px;
 	transition: color 0.3s, background-color 0.5s;
 }
@@ -167,7 +167,7 @@
 
 .header__title--features {
 	margin: 0 20px 25px;
-    font-size: 29px;
+	font-size: 29px;
 }
 
 .article__content--features {
@@ -176,7 +176,7 @@
 }
 
 .article__text--features {
-    margin: 0 20px 30px;
+	margin: 0 20px 30px;
 	font-size: 16px;
 }
 
@@ -257,4 +257,14 @@
 .article__content--pricing-business {
 	height: 83%;
 	margin-right: 25%;
+}
+
+.pricing__btn {
+	transition: color 0.3s, background-color 0.5s;
+}
+
+.pricing__btn:hover {
+	background-color: var(--color-orange);
+	color: var(--color-beta);
+    border: 1px solid var(--color-orange);
 }
