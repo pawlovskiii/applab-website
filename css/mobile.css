@@ -72,6 +72,10 @@ a {
 	color: var(--color-alfa);
 }
 
+.nav__btn {
+	display: none;
+}
+
 /* MAIN ~ get-start */
 .get-start {
 	background-image: url('../images/banner/banner.png');

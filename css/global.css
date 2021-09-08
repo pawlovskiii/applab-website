@@ -2,7 +2,7 @@
 	--color-alfa: #fff;
 	--color-beta: #000;
 	--nav-color: #333;
-	--color-blue: #2393f9;
+	--color-blue: #42B3FA;
 	--light-blue: #5DB2FF;
 	--color-orange: #fd945e;
 	--color-green: #37ef8d;
@@ -24,7 +24,7 @@ body {
 	align-items: flex-start;
 }
 
-.article__btn {
+.btn {
 	border: none;
 	border-radius: 5px;
 	color: var(--color-alfa);
