@@ -114,3 +114,30 @@
 .container--features {
 	margin-right: 110px;
 }
+
+/* MAIN ~ reviews */
+.wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.article__content--reviews {
+	width: 600px;
+}
+
+.header--reviews {
+	width: 300px;
+}
+
+.header__title--reviews {
+	margin: 0 30px 35px;
+	font-size: 25px;
+}
+
+.article__text--reviews {
+	width: 480px;
+}
+
+.article__text--stars {
+	margin-top: 35px;
+}
