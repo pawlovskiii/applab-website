@@ -179,9 +179,9 @@ a {
 	flex-direction: column;
 }
 
-.container--features {
+/* .container--features {
 	flex-direction: column;
-}
+} */
 
 .article__text--features {
 	margin: 0 20px 15px;

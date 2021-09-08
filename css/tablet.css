@@ -51,7 +51,7 @@
 /* MAIN ~ benefits */
 .benefits {
 	margin-top: 130px;
-	height: 430px;
+	height: 350px;
 }
 
 .header__title--benefits {
@@ -84,4 +84,33 @@
 
 .benefit__item--green {
 	margin-right: 120px;
+}
+
+/* MAIN ~ features */
+.features {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	align-items: center;
+	height: 390px;
+}
+
+.header__title--features {
+	font-size: 25px;
+}
+
+.article__content--features {
+	margin-left: 110px;
+	width: 300px;
+}
+
+.article__text--features {
+	font-size: 14px;
+}
+
+.article__btn--features {
+	padding: 12px 25px;
+}
+
+.container--features {
+	margin-right: 110px;
 }
