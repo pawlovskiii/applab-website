@@ -266,5 +266,41 @@
 .pricing__btn:hover {
 	background-color: var(--color-orange);
 	color: var(--color-beta);
-    border: 1px solid var(--color-orange);
+	border: 1px solid var(--color-orange);
+}
+
+/* MAIN ~ get-app */
+.get-app {
+	height: 480px;
+	background: var(--light-blue);
+}
+
+.article__content--get-app {
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	grid-template-columns: 1fr 1fr;
+	height: 100%;
+}
+
+.header--get-app {
+    width: 490px;
+    margin-left: 20%;
+}
+
+.header__title--get-app {
+    margin: 0;
+	font-size: 40px;
+	text-align: left;
+	color: var(--color-alfa);
+}
+
+.container--get-app {
+    margin-right: 100px;
+}
+
+.container__img--get-app {
+	width: 200px;
+    margin-right: 10px;
+	transform: scale(1.1);
 }
