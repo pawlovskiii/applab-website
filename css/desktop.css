@@ -217,3 +217,40 @@
 .fa-star {
 	font-size: 20px;
 }
+
+/* MAIN ~ pricing */
+.pricing {
+	height: 800px;
+}
+
+.header__title--pricing {
+	font-size: 33px;
+}
+
+.header__text--pricing {
+	width: 500px;
+	margin-bottom: 40px;
+	font-size: 18px;
+}
+
+.header__pricing {
+	font-size: 20px;
+}
+
+.pricing__item {
+	font-size: 18px;
+}
+
+.article__content--pricing-basic {
+	height: 83%;
+	margin-left: 25%;
+}
+
+.article__content--pricing-team {
+	height: 95.2%;
+}
+
+.article__content--pricing-business {
+	height: 83%;
+	margin-right: 25%;
+}
