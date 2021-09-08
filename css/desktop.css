@@ -164,7 +164,8 @@
 }
 
 .header__title--features {
-	font-size: 29px;
+	margin: 0 20px 25px;
+    font-size: 29px;
 }
 
 .article__content--features {
@@ -173,6 +174,7 @@
 }
 
 .article__text--features {
+    margin: 0 20px 30px;
 	font-size: 16px;
 }
 
