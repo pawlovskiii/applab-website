@@ -142,7 +142,6 @@
 	margin-top: 35px;
 }
 
-
 /* MAIN ~ pricing */
 .pricing {
 	height: 760px;
@@ -206,4 +205,18 @@
 .pricing__btn {
 	margin: 15px 0 32px;
 	padding: 10px 35px;
+}
+
+/* MAIN ~ get-app */
+.header--get-app {
+	width: 400px;
+}
+
+.header__title--get-app {
+	margin: 55px 20px 10px;
+	font-size: 29px;
+}
+
+.container__img--get-app {
+	width: 43%;
 }
