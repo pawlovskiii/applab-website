@@ -301,3 +301,62 @@
 	width: 200px;
 	margin-right: 10px;
 }
+
+/* MAIN ~ menu-end > app-lab */
+.menu-end {
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows: 1fr;
+	height: 500px;
+}
+
+.article__content--app-lab {
+	grid-column: 2;
+	margin-left: 100px;
+}
+
+.header--app-lab {
+	margin-bottom: 15px;
+}
+
+.article__text--app-lab {
+	width: 400px;
+	font-size: 16px;
+}
+
+.container__icons--app-lab {
+	margin-top: 10px;
+}
+
+.container__icons--app-lab > .fab {
+	margin-right: 15px;
+}
+
+.article__content--menu-end {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.header__title--menu-end {
+	font-size: 28px;
+}
+
+.menu-end__item {
+	font-size: 16px;
+}
+
+/* MAIN ~ menu-end > services */
+.article__content--services {
+	grid-column: 4;
+	margin: 0 0 0 10px;
+}
+
+/* MAIN ~ menu-end > useful-links */
+.article__content--useful-links {
+	margin: 0 0 0 10px;
+}
+
+/* MAIN ~ menu-end > downloads */
+.article__content--downloads {
+	margin: 0 0 65px 0;
+}
