@@ -20,6 +20,7 @@
 
 .nav__menu {
 	display: flex;
+	position: relative;
 	margin: 10px;
 }
 
