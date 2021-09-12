@@ -36,7 +36,7 @@
 
 .menu__item {
 	border: 1px solid var(--color-alfa);
-	border-radius: 30px;
+	border-radius: 10px;
 	text-align: center;
 
 	width: 140px;
@@ -50,6 +50,7 @@
 
 .nav__menu {
 	display: none;
+	position: absolute;
 	text-align: center;
 }
 
