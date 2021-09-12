@@ -1,0 +1,27 @@
+{
+	"name": "applab-website",
+	"version": "1.0.0",
+	"description": "See the live version of [AppLab](https://pawlovskiii.github.io/applab-website/).",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"start": "parcel docs/index.html",
+		"build": "parcel build docs/index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pawlovskiii/applab-website.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/pawlovskiii/applab-website/issues"
+	},
+	"homepage": "https://github.com/pawlovskiii/applab-website#readme",
+	"devDependencies": {
+		"parcel-bundler": "^1.12.5"
+	}
+}
