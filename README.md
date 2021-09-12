@@ -2,13 +2,13 @@
 
 See the live version of [AppLab](https://pawlovskiii.github.io/applab-website/).
 
-The project was mainly about learning of usage of responsive web design (RWD). Within mobile first methodology.
+The project was mainly about learning of usage of responsive web design (RWD). Within mobile first methodology. Secondly I tried to improve my BEM skills around proper naming the CSS classes.
 
 **Main features**:
 
-- HTML Semantic Elements
-- BEM
 - RWD
+- BEM
+- HTML Semantic Elements
 
 ## 💡 Technologies
 
@@ -35,7 +35,7 @@ $ npm start
 
 ## 💭 Conclusions for future projects
 
-...
+In the future projects I am going to add JavaScript, to make websites more interactive.
 
 
 ## 🙋‍♂️ Feel free to contact me
