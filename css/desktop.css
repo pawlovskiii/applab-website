@@ -36,7 +36,7 @@
 	width: 220px;
 	height: 60px;
 	border-radius: 0;
-	background: none;
+	background: var(--color-blue);
 	border: none;
 }
 
