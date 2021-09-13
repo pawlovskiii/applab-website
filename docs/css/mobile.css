@@ -80,7 +80,7 @@ a {
 /* MAIN ~ get-start */
 .get-start {
 	background-image: url('../images/banner/banner.png');
-	height: 930px;
+	height: 860px;
 	background-size: cover;
 	background-position: center;
 	color: var(--color-alfa);
@@ -125,7 +125,7 @@ a {
 
 /* MAIN ~ benefits */
 .benefits {
-	margin-top: 60px;
+	margin-top: 40px;
 	height: 650px;
 }
 
