@@ -80,7 +80,7 @@ a {
 /* MAIN ~ get-start */
 .get-start {
 	background-image: url('../images/banner/banner.png');
-	height: 780px;
+	height: 930px;
 	background-size: cover;
 	background-position: center;
 	color: var(--color-alfa);
@@ -121,10 +121,6 @@ a {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-}
-
-.container__img--get-start {
-	height: 50%;
 }
 
 /* MAIN ~ benefits */
