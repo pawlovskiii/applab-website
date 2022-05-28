@@ -2,7 +2,7 @@
 
 See the live version of [AppLab](https://pawlovskiii.github.io/applab-website/).
 
-The project was mainly about learning of usage of responsive web design (RWD). Within mobile first methodology. Secondly I tried to improve my BEM skills around proper naming the CSS classes.
+The project was mainly about learning of usage of responsive web design (RWD). Within mobile-first methodology. Secondly, I tried to improve my  BEM skills around proper naming of the CSS classes. I also use GitHub Pages for the deployment process.
 
 **Main features**:
 
